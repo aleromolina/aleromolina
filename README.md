@@ -1,75 +1,99 @@
-# Alejandro Rodas Molina
+# 👋 ¡Hola! Soy Alejandro Rodas Molina
 
-**Ingeniero de Sistemas** · Administración Linux · Infraestructura TI · Soporte de aplicaciones N2/N3 · Bases de datos
+### 💻 Ingeniero de Sistemas | Linux | Infraestructura TI | Backend Development
 
-Trabajo en tecnología empresarial desde 2019, en entornos donde los sistemas no pueden parar: aplicaciones de punto de venta, bases de datos, servidores y equipos repartidos en más de 400 puntos de operación. Mi día a día ha sido diagnosticar incidentes, mantener servicios estables y automatizar lo repetitivo.
+Ingeniero de Sistemas con experiencia en soporte de aplicaciones empresariales, administración de sistemas Linux, infraestructura tecnológica y bases de datos.
 
-Mi base es Linux e infraestructura. Ahora estoy sumando desarrollo backend con Node.js para entender también el otro lado de las aplicaciones que soporto.
+Me apasiona la tecnología, la resolución de problemas y la optimización de sistemas. He trabajado en entornos empresariales donde la disponibilidad, estabilidad y continuidad operativa de los servicios tecnológicos son fundamentales.
 
----
-
-## Qué hago
-
-| Área | Experiencia |
-|---|---|
-| **Linux (Ubuntu)** | Personalización de imágenes ISO corporativas, usuarios, grupos y permisos, servicios, tareas con `cron`, reglas `udev`, acceso remoto por SSH y VNC, X11 y LightDM, diagnóstico de controladores de red y gráficos |
-| **Automatización** | Scripts en Bash para configuración, despliegue y mantenimiento de equipos |
-| **Bases de datos** | PostgreSQL, Oracle y MySQL: consultas SQL, validación y corrección de datos, soporte a aplicaciones que dependen de ellas |
-| **Servidores y redes** | Windows Server 2016, Active Directory, administración de usuarios y equipos, conectividad y diagnóstico remoto |
-| **Soporte de aplicaciones** | Atención de incidentes N2/N3, análisis de logs y errores, actualización y despliegue de software, reportes con JasperReports |
-| **Herramientas** | GLPI, FortiClient, CUPS, impresoras POS térmicas, Git y GitHub |
+Actualmente estoy ampliando mis conocimientos hacia el desarrollo backend, las APIs REST y las tecnologías modernas de desarrollo web.
 
 ---
 
-## Stack
+## 🚀 Sobre mí
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- 🎓 Ingeniero de Sistemas.
+- 🐧 Experiencia práctica en administración y personalización de Ubuntu Linux.
+- 🖥️ Experiencia en soporte de aplicaciones e infraestructura empresarial.
+- 🗄️ Conocimientos en PostgreSQL, Oracle y MySQL.
+- ⚙️ Automatización de tareas mediante Bash y herramientas Linux.
+- 🌐 Actualmente fortaleciendo mis conocimientos en JavaScript y desarrollo backend.
+- 🔍 Interesado en Linux, infraestructura, bases de datos y tecnologías cloud.
 
 ---
 
-## En qué estoy trabajando
+## 🛠️ Tecnologías y herramientas
 
-Estoy construyendo APIs REST con **Node.js, Express, Prisma y PostgreSQL**, con operaciones CRUD, manejo de CORS y consumo desde el cliente con Fetch y Axios. También estoy profundizando en JavaScript moderno (ES6+, programación asíncrona, Promises y async/await).
+### Sistemas operativos e infraestructura
 
-**Siguientes pasos:** certificación LPIC-1, fundamentos de AWS y virtualización.
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-<!-- Cuando tengas repositorios listos, fíjalos en tu perfil (Customize your pins) y agrega aquí una sección "Proyectos" con una línea por cada uno. -->
+### Bases de datos
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Desarrollo web y backend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Herramientas y plataformas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GLPI](https://img.shields.io/badge/GLPI-264B8B?style=for-the-badge&logo=glpi&logoColor=white)
 
 ---
 
-## Busco
+## 📚 Actualmente aprendiendo
 
-Roles **remotos** en Colombia y Latinoamérica, en español, enfocados en:
+Estoy enfocado en fortalecer mis conocimientos en desarrollo backend y ampliar mis capacidades en infraestructura tecnológica.
 
-- Administración Linux / Linux Support Engineer
-- Soporte de aplicaciones N2/N3
-- Administración de bases de datos
-- Desarrollo backend (nivel junior)
-
-**Idiomas:** español nativo · inglés técnico (lectura y escritura)
-
----
-
-## Contacto
-
-[LinkedIn](https://www.linkedin.com/in/aleromolina/) · [GitHub](https://github.com/aleromolina)
+- JavaScript moderno (ES6+).
+- Node.js y Express.
+- APIs REST y operaciones CRUD.
+- PostgreSQL y Prisma ORM.
+- Programación asíncrona.
+- Consumo de servicios mediante Fetch y Axios.
+- Arquitectura y comunicación cliente-servidor.
 
 ---
 
-<sub>Estadísticas de GitHub</sub>
+## 🎯 Intereses profesionales
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=aleromolina&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleromolina&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes principales" />
-</p>
+- Administración de sistemas Linux.
+- Infraestructura y servidores.
+- Soporte especializado de aplicaciones (N2/N3).
+- Administración de bases de datos.
+- Automatización de procesos.
+- Desarrollo backend.
+- Cloud Computing.
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleromolina&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleromolina&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Contacto
+
+💼 **LinkedIn:** [Alejandro Rodas Molina](https://www.linkedin.com/in/aleromolina/)
+
+💻 **GitHub:** [@aleromolina](https://github.com/aleromolina)
+
+---
+
+⭐ Siempre aprendiendo, experimentando y construyendo soluciones tecnológicas.
