@@ -1,99 +1,120 @@
-# 👋 ¡Hola! Soy Alejandro Rodas Molina
+# ALEJANDRO RODAS MOLINA
+**Ingeniero de Sistemas | Analista de Aplicaciones | Soporte e Infraestructura TI**
 
-### 💻 Ingeniero de Sistemas | Linux | Infraestructura TI | Backend Development
+Cartago, Valle del Cauca, Colombia
 
-Ingeniero de Sistemas con experiencia en soporte de aplicaciones empresariales, administración de sistemas Linux, infraestructura tecnológica y bases de datos.
+## PERFIL PROFESIONAL
 
-Me apasiona la tecnología, la resolución de problemas y la optimización de sistemas. He trabajado en entornos empresariales donde la disponibilidad, estabilidad y continuidad operativa de los servicios tecnológicos son fundamentales.
+Ingeniero de Sistemas con experiencia en el área de tecnología, desempeñando funciones relacionadas con soporte de aplicaciones, administración de sistemas operativos, infraestructura tecnológica y gestión de bases de datos.
 
-Actualmente estoy ampliando mis conocimientos hacia el desarrollo backend, las APIs REST y las tecnologías modernas de desarrollo web.
+Cuento con experiencia en entornos empresariales, brindando soporte a plataformas y servicios tecnológicos, diagnóstico y solución de incidentes, administración de sistemas Linux y Windows, así como configuración y mantenimiento de equipos y aplicaciones.
 
----
+Tengo conocimientos prácticos en Ubuntu Linux, administración de permisos y usuarios, automatización de tareas mediante scripts Bash, configuración de servicios, gestión de tareas programadas y acceso remoto. También he trabajado con bases de datos PostgreSQL, Oracle y MySQL, realizando consultas SQL y actividades de soporte sobre sistemas de información.
 
-## 🚀 Sobre mí
+Durante mi trayectoria he participado en la operación y mantenimiento de soluciones tecnológicas utilizadas en diferentes municipios y puntos de atención, lo que me ha permitido adquirir experiencia en soporte de infraestructuras distribuidas y continuidad operativa.
 
-- 🎓 Ingeniero de Sistemas.
-- 🐧 Experiencia práctica en administración y personalización de Ubuntu Linux.
-- 🖥️ Experiencia en soporte de aplicaciones e infraestructura empresarial.
-- 🗄️ Conocimientos en PostgreSQL, Oracle y MySQL.
-- ⚙️ Automatización de tareas mediante Bash y herramientas Linux.
-- 🌐 Actualmente fortaleciendo mis conocimientos en JavaScript y desarrollo backend.
-- 🔍 Interesado en Linux, infraestructura, bases de datos y tecnologías cloud.
+Actualmente complemento mi experiencia profesional con formación en desarrollo web y backend, enfocándome en JavaScript, Node.js, Express, Prisma y desarrollo de APIs REST.
 
----
+## EXPERIENCIA PROFESIONAL
 
-## 🛠️ Tecnologías y herramientas
+**Súper Servicios del Valle S.A. – SuperGiros Norte del Valle**
 
-### Sistemas operativos e infraestructura
+### Analista de Aplicaciones
+*Enero de 2023 – Septiembre de 2026*
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+- Brindar soporte técnico y funcional a aplicaciones empresariales.
+- Diagnosticar y solucionar incidentes relacionados con aplicaciones, sistemas operativos y servicios tecnológicos.
+- Administrar y configurar sistemas Ubuntu Linux utilizados en la operación empresarial.
+- Personalizar imágenes ISO para la instalación y configuración de sistemas operativos.
+- Gestionar usuarios, permisos, servicios y tareas programadas en entornos Linux.
+- Desarrollar y ejecutar scripts Bash para automatizar tareas operativas.
+- Realizar consultas y validaciones en bases de datos PostgreSQL, Oracle y MySQL.
+- Apoyar la administración y mantenimiento de aplicaciones empresariales y sistemas POS.
+- Gestionar incidentes mediante herramientas de soporte y seguimiento.
+- Brindar asistencia técnica a usuarios y puntos de operación.
 
-### Bases de datos
+### Auxiliar de TI
+*Febrero de 2019 – Diciembre de 2022 (fechas por confirmar)*
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+- Brindar soporte técnico a equipos de cómputo y periféricos.
+- Realizar mantenimiento preventivo y correctivo de equipos.
+- Apoyar la instalación y configuración de sistemas operativos y aplicaciones.
+- Atender requerimientos relacionados con conectividad, impresión y funcionamiento de herramientas tecnológicas.
+- Apoyar la operación y mantenimiento de los recursos informáticos de la organización.
 
-### Desarrollo web y backend
+### Auxiliar de Comunicaciones
+*Junio de 2018 – Febrero de 2019 (fechas por confirmar)*
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- Apoyar las actividades operativas del área de comunicaciones.
+- Brindar acompañamiento en las tareas administrativas y técnicas del área.
 
-### Herramientas y plataformas
+## CONOCIMIENTOS TÉCNICOS
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GLPI](https://img.shields.io/badge/GLPI-264B8B?style=for-the-badge&logo=glpi&logoColor=white)
+**Sistemas operativos**
+- Ubuntu Linux.
+- Windows Server 2016.
+- Windows.
+- Administración de usuarios, grupos y permisos.
+- Configuración de servicios y acceso remoto.
 
----
+**Linux y automatización**
+- Bash scripting.
+- Cron.
+- Udev.
+- SSH.
+- X11 y LightDM.
+- Personalización de imágenes ISO.
+- Systemback.
+- Administración de paquetes y configuración del sistema.
 
-## 📚 Actualmente aprendiendo
+**Bases de datos**
+- PostgreSQL.
+- Oracle Database.
+- MySQL.
+- SQL.
 
-Estoy enfocado en fortalecer mis conocimientos en desarrollo backend y ampliar mis capacidades en infraestructura tecnológica.
+**Infraestructura y soporte**
+- Active Directory.
+- Administración de dominios.
+- GLPI 10.0.16.
+- FortiClient.
+- CUPS.
+- Impresoras térmicas Epson POS.
+- Sistemas POS SuperFlex.
+- JasperReports.
 
-- JavaScript moderno (ES6+).
-- Node.js y Express.
-- APIs REST y operaciones CRUD.
-- PostgreSQL y Prisma ORM.
-- Programación asíncrona.
-- Consumo de servicios mediante Fetch y Axios.
-- Arquitectura y comunicación cliente-servidor.
+**Desarrollo y tecnologías web**
+- HTML y JavaScript.
+- DOM y programación orientada a objetos.
+- Fetch API y Axios.
+- JSON y APIs REST.
+- Node.js.
+- Express.js.
+- Prisma ORM.
+- PostgreSQL.
+- Operaciones CRUD y métodos HTTP.
 
----
+## FORMACIÓN ACADÉMICA
 
-## 🎯 Intereses profesionales
+**Ingeniería de Sistemas**
+
+## FORMACIÓN COMPLEMENTARIA
+
+- JavaScript y programación web.
+- Desarrollo backend con Node.js y Express.
+- Gestión de bases de datos y consultas SQL.
+- Administración de sistemas Linux.
+
+## IDIOMAS
+
+- Español: nativo.
+- Inglés: básico.
+
+## ÁREAS DE INTERÉS PROFESIONAL
 
 - Administración de sistemas Linux.
-- Infraestructura y servidores.
-- Soporte especializado de aplicaciones (N2/N3).
+- Infraestructura tecnológica.
+- Soporte de aplicaciones N2/N3.
 - Administración de bases de datos.
 - Automatización de procesos.
-- Desarrollo backend.
-- Cloud Computing.
-
----
-
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleromolina&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleromolina&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 📫 Contacto
-
-💼 **LinkedIn:** [Alejandro Rodas Molina](https://www.linkedin.com/in/aleromolina/)
-
-💻 **GitHub:** [@aleromolina](https://github.com/aleromolina)
-
----
-
-⭐ Siempre aprendiendo, experimentando y construyendo soluciones tecnológicas.
+- Servicios y plataformas en la nube.
