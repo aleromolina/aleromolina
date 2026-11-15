@@ -1,120 +1,120 @@
-# ALEJANDRO RODAS MOLINA
-**Ingeniero de Sistemas | Analista de Aplicaciones | Soporte e Infraestructura TI**
+<div align="center">
 
-Cartago, Valle del Cauca, Colombia
+<!-- Banner Tecnológico Decorativo -->
+<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&h=260&q=80" alt="Banner Infraestructura y Desarrollo" width="100%" style="border-radius: 10px;" />
 
-## PERFIL PROFESIONAL
+# 👨‍💻 ALEJANDRO RODAS MOLINA
+### **Ingeniero de Sistemas | Analista de Aplicaciones | Soporte e Infraestructura TI**
 
-Ingeniero de Sistemas con experiencia en el área de tecnología, desempeñando funciones relacionadas con soporte de aplicaciones, administración de sistemas operativos, infraestructura tecnológica y gestión de bases de datos.
+📍 **Cartago, Valle del Cauca, Colombia**
 
-Cuento con experiencia en entornos empresariales, brindando soporte a plataformas y servicios tecnológicos, diagnóstico y solución de incidentes, administración de sistemas Linux y Windows, así como configuración y mantenimiento de equipos y aplicaciones.
+[![Linux](https://img.shields.io/badge/Ubuntu_Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
+[![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
-Tengo conocimientos prácticos en Ubuntu Linux, administración de permisos y usuarios, automatización de tareas mediante scripts Bash, configuración de servicios, gestión de tareas programadas y acceso remoto. También he trabajado con bases de datos PostgreSQL, Oracle y MySQL, realizando consultas SQL y actividades de soporte sobre sistemas de información.
+</div>
 
-Durante mi trayectoria he participado en la operación y mantenimiento de soluciones tecnológicas utilizadas en diferentes municipios y puntos de atención, lo que me ha permitido adquirir experiencia en soporte de infraestructuras distribuidas y continuidad operativa.
+---
 
-Actualmente complemento mi experiencia profesional con formación en desarrollo web y backend, enfocándome en JavaScript, Node.js, Express, Prisma y desarrollo de APIs REST.
+## 🚀 PERFIL PROFESIONAL
 
-## EXPERIENCIA PROFESIONAL
+> **Ingeniero de Sistemas** con sólida experiencia en soporte de aplicaciones empresariales, administración de sistemas operativos Linux/Windows, infraestructura tecnológica distribuida y gestión de bases de datos.
 
-**Súper Servicios del Valle S.A. – SuperGiros Norte del Valle**
+* 🛡️ **Soporte e Infraestructura:** Amplia experiencia en entornos empresariales, diagnóstico y solución de incidentes, configuración y mantenimiento de equipos, plataformas y servicios tecnológicos en múltiples municipios y puntos de atención.
+* 🐧 **Especialista en Linux & Automatización:** Dominio práctico en **Ubuntu Linux**, gestión de usuarios y permisos, automatización de tareas mediante **scripts Bash**, configuración de servicios, tareas programadas (`Cron`) y acceso remoto (`SSH`).
+* 🗄️ **Gestión de Datos:** Experiencia operando y consultando motores **PostgreSQL, Oracle y MySQL** para soporte sobre sistemas de información críticos.
+* 💻 **Proyección Backend:** Complemento mi trayectoria con desarrollo web y backend moderno enfocado en **JavaScript, Node.js, Express, Prisma ORM y APIs REST**.
 
-### Analista de Aplicaciones
-*Enero de 2023 – Septiembre de 2026*
+---
 
-- Brindar soporte técnico y funcional a aplicaciones empresariales.
-- Diagnosticar y solucionar incidentes relacionados con aplicaciones, sistemas operativos y servicios tecnológicos.
-- Administrar y configurar sistemas Ubuntu Linux utilizados en la operación empresarial.
-- Personalizar imágenes ISO para la instalación y configuración de sistemas operativos.
-- Gestionar usuarios, permisos, servicios y tareas programadas en entornos Linux.
-- Desarrollar y ejecutar scripts Bash para automatizar tareas operativas.
-- Realizar consultas y validaciones en bases de datos PostgreSQL, Oracle y MySQL.
-- Apoyar la administración y mantenimiento de aplicaciones empresariales y sistemas POS.
-- Gestionar incidentes mediante herramientas de soporte y seguimiento.
-- Brindar asistencia técnica a usuarios y puntos de operación.
+## 💼 EXPERIENCIA PROFESIONAL
 
-### Auxiliar de TI
-*Febrero de 2019 – Diciembre de 2022 (fechas por confirmar)*
+### 🏢 Súper Servicios del Valle S.A. – SuperGiros Norte del Valle
 
-- Brindar soporte técnico a equipos de cómputo y periféricos.
-- Realizar mantenimiento preventivo y correctivo de equipos.
-- Apoyar la instalación y configuración de sistemas operativos y aplicaciones.
-- Atender requerimientos relacionados con conectividad, impresión y funcionamiento de herramientas tecnológicas.
-- Apoyar la operación y mantenimiento de los recursos informáticos de la organización.
+#### 🔹 **Analista de Aplicaciones**
+🗓️ *Enero de 2023 – Septiembre de 2026*
 
-### Auxiliar de Comunicaciones
-*Junio de 2018 – Febrero de 2019 (fechas por confirmar)*
+* ⚙️ Brindar soporte técnico y funcional a aplicaciones empresariales y sistemas **POS**.
+* 🔍 Diagnosticar y solucionar incidentes relacionados con aplicaciones, sistemas operativos y servicios tecnológicos.
+* 🐧 Administrar y configurar sistemas **Ubuntu Linux** utilizados en la operación empresarial.
+* 💿 Personalizar **imágenes ISO** para la instalación y despliegue estandarizado de sistemas operativos.
+* 🔐 Gestionar usuarios, permisos, servicios y tareas programadas en entornos Linux.
+* ⚡ Desarrollar y ejecutar **scripts Bash** para automatizar tareas operativas recurrentes.
+* 🗄️ Realizar consultas y validaciones en bases de datos **PostgreSQL, Oracle y MySQL**.
+* 🎫 Gestionar incidentes mediante herramientas de soporte y seguimiento, brindando asistencia técnica a usuarios y puntos de operación.
 
-- Apoyar las actividades operativas del área de comunicaciones.
-- Brindar acompañamiento en las tareas administrativas y técnicas del área.
+---
 
-## CONOCIMIENTOS TÉCNICOS
+#### 🔹 **Auxiliar de TI**
+🗓️ *Febrero de 2019 – Diciembre de 2022 (fechas por confirmar)*
 
-**Sistemas operativos**
-- Ubuntu Linux.
-- Windows Server 2016.
-- Windows.
-- Administración de usuarios, grupos y permisos.
-- Configuración de servicios y acceso remoto.
+* 🖥️ Brindar soporte técnico integral a equipos de cómputo y periféricos.
+* 🛠️ Realizar mantenimiento preventivo y correctivo de hardware.
+* 💽 Apoyar la instalación y configuración de sistemas operativos y aplicaciones corporativas.
+* 🌐 Atender requerimientos relacionados con conectividad, impresión y operación de recursos informáticos.
 
-**Linux y automatización**
-- Bash scripting.
-- Cron.
-- Udev.
-- SSH.
-- X11 y LightDM.
-- Personalización de imágenes ISO.
-- Systemback.
-- Administración de paquetes y configuración del sistema.
+---
 
-**Bases de datos**
-- PostgreSQL.
-- Oracle Database.
-- MySQL.
-- SQL.
+#### 🔹 **Auxiliar de Comunicaciones**
+🗓️ *Junio de 2018 – Febrero de 2019 (fechas por confirmar)*
 
-**Infraestructura y soporte**
-- Active Directory.
-- Administración de dominios.
-- GLPI 10.0.16.
-- FortiClient.
-- CUPS.
-- Impresoras térmicas Epson POS.
-- Sistemas POS SuperFlex.
-- JasperReports.
+* 📡 Apoyar las actividades operativas del área de comunicaciones.
+* 📋 Brindar acompañamiento en tareas administrativas y técnicas del departamento.
 
-**Desarrollo y tecnologías web**
-- HTML y JavaScript.
-- DOM y programación orientada a objetos.
-- Fetch API y Axios.
-- JSON y APIs REST.
-- Node.js.
-- Express.js.
-- Prisma ORM.
-- PostgreSQL.
-- Operaciones CRUD y métodos HTTP.
+---
 
-## FORMACIÓN ACADÉMICA
+## 🛠️ CONOCIMIENTOS TÉCNICOS
 
-**Ingeniería de Sistemas**
+| Categoría | Tecnologías y Herramientas |
+| :--- | :--- |
+| **🖥️ Sistemas Operativos** | ![Ubuntu](https://img.shields.io/badge/Ubuntu_Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows_Server_2016-0078D6?style=flat-square&logo=windows&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) <br>• Administración de usuarios, grupos y permisos • Configuración de servicios y acceso remoto |
+| **⚡ Linux & Automatización** | ![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=flat-square&logo=gnu-bash&logoColor=white) ![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=flat-square&logo=openssh&logoColor=white) <br>• `Cron` • `Udev` • `X11` y `LightDM` • Personalización de imágenes ISO • `Systemback` • Gestión de paquetes |
+| **🗄️ Bases de Datos** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle_Database-F80000?style=flat-square&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) <br>• Consultas SQL, validación y soporte de integridad de datos |
+| **🏢 Infraestructura & POS** | ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white) ![Fortinet](https://img.shields.io/badge/FortiClient_VPN-EE3124?style=flat-square&logo=fortinet&logoColor=white) <br>• Administración de dominios • `GLPI 10.0.16` • `CUPS` • Impresoras térmicas Epson POS • Sistemas POS SuperFlex • `JasperReports` |
+| **🌐 Desarrollo Web & Backend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white) <br>• DOM y POO • `Fetch API` y `Axios` • `JSON` y `APIs REST` • Operaciones CRUD y métodos HTTP |
 
-## FORMACIÓN COMPLEMENTARIA
+---
 
-- JavaScript y programación web.
-- Desarrollo backend con Node.js y Express.
-- Gestión de bases de datos y consultas SQL.
-- Administración de sistemas Linux.
+## 🎓 FORMACIÓN E IDIOMAS
 
-## IDIOMAS
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Español: nativo.
-- Inglés: básico.
+### 🏛️ Formación Académica
+* 🎓 **Ingeniería de Sistemas**
 
-## ÁREAS DE INTERÉS PROFESIONAL
+### 📚 Formación Complementaria
+* 💻 JavaScript y programación web.
+* 🚀 Desarrollo backend con Node.js y Express.
+* 🗄️ Gestión de bases de datos y consultas SQL.
+* 🐧 Administración de sistemas Linux.
 
-- Administración de sistemas Linux.
-- Infraestructura tecnológica.
-- Soporte de aplicaciones N2/N3.
-- Administración de bases de datos.
-- Automatización de procesos.
-- Servicios y plataformas en la nube.
+</td>
+<td width="50%" valign="top">
+
+### 🌍 Idiomas
+* 🇨🇴 **Español:** Nativo
+* 🇺🇸 **Inglés:** Básico
+
+### 🎯 Áreas de Interés Profesional
+* 🐧 Administración de sistemas Linux
+* 🏗️ Infraestructura tecnológica
+* 🛟 Soporte de aplicaciones N2 / N3
+* 🗄️ Administración de bases de datos
+* ⚙️ Automatización de procesos
+* ☁️ Servicios y plataformas en la nube
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:14b8a6&height=90&section=footer" width="100%" />
+</div>
